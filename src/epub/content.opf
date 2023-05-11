@@ -56,21 +56,22 @@
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">28</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A girl and her grandfather must find their way through a life of poverty amidst a diverse cast of memorable characters in Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Nell and her grandfather eke out a life of near-poverty in a small curiosity shop in London. Despite their narrow circumstances, their lives are happy ones, in which each takes care of the other. But Nell’s grandfather is hiding a secret, one which threatens their very survival. Before long, their lives are turned upside-down, and they must make their way through unfamiliar places, and among unfamiliar people.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; originally conceived of the characters of Little Nell and her grandfather for a tale of only a few chapters. However, when his new weekly periodical failed to sell well due to having no ongoing storyline, he wound up extending those few chapters into a sprawling narrative that ultimately took ten months to complete. Despite the intense pressure of ongoing weekly deadlines, the result became his second most popular novel during his lifetime. Dickens is known for his ability to quickly sketch memorable characters, and &lt;i&gt;The Old Curiosity Shop&lt;/i&gt; in particular is brimming with figures across the social strata of Victorian England.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/700</dc:source>
 		<dc:source>https://archive.org/details/oldcuriosityshop1841dick</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Nearly every edition of this book differs from each other: not just punctuation, but word choices and occasionally entire sentences and paragraphs. Even the opening sentence comes in three different versions. After a careful comparison with the page scans of nearly a dozen different editions, it was unfortunately found that the Project Gutenberg transcription did not adhere particularly closely to any of them. Ultimately, the Chapman and Hall edition of 1841 was chosen for three reasons. One, it was marginally closer to the Project Gutenberg edition than most others. Two, this is the edition that is used as the basis for the definitive Clarendon Press edition of 1997, and in the lengthy introduction of this book, Elizabeth Brennan argues that of all the editions published during Dickens's lifetime, this one best represents his intentions and voice. And finally, the available scan of this paritcular edition was of a very good resolution. In order to avoid creating a chimeric patchwork transcription, the page scans were allowed to always take precedence over the Project Gutenberg version wherever they differed.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_the-old-curiosity-shop</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
 		<meta property="file-as" refines="#author">Dickens, Charles</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Charles John Huffam Dickens</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_Dickens</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
