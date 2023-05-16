@@ -72,8 +72,8 @@ section[epub|type~="dedication"] footer{
 }
 
 [epub|type~="z3998:salutation"]{
-	margin-bottom: 1em;
 	font-variant: small-caps;
+	margin-bottom: 1em;
 }
 
 [epub|type~="z3998:valediction"]{
