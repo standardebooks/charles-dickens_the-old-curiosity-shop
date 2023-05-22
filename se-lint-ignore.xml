@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<se-lint-ignore>
-	<file path="dedication.xhtml">
-		<ignore>
-			<code>c-015</code>
-			<reason>Preserve the formatting of the original dedication page (as per SEMOS 7.3).</reason>
-		</ignore>
-	</file>
-</se-lint-ignore>
