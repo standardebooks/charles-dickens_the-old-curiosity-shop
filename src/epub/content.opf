@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-dickens/the-old-curiosity-shop</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-22T20:44:37Z</dc:date>
+		<meta property="dcterms:modified">2023-05-22T20:44:37Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,18 +56,18 @@
 		<meta id="collection-1" property="belongs-to-collection">The Telegraph’s Greatest Villains in Literature</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">28</meta>
-		<dc:description id="description">A girl and her grandfather must find their way through a life of poverty amidst a diverse cast of memorable characters in Victorian London.</dc:description>
+		<dc:description id="description">A girl and her grandfather struggle through a life of poverty amidst a diverse cast of memorable characters in Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Nell and her grandfather eke out a life of near-poverty in a small curiosity shop in London. Despite their narrow circumstances, their lives are happy ones, in which each takes care of the other. But Nell’s grandfather is hiding a secret, one which threatens their very survival. When his secret is uncovered by the moneylender Daniel Quilp, their lives are turned upside-down, and they must make their way through unfamiliar places, and among unfamiliar people.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; originally conceived of the characters of Little Nell and her grandfather for a tale of only a few chapters. However, when his new weekly periodical failed to sell well due to having no ongoing storyline, he wound up extending those few chapters into a sprawling narrative that ultimately took ten months to complete. Despite the intense pressure of ongoing weekly deadlines, the result became his second most popular novel during his lifetime. Dickens is famous for his ability to quickly sketch memorable characters, and &lt;i&gt;The Old Curiosity Shop&lt;/i&gt; in particular is brimming with figures across the social strata of Victorian England. Kit Nubbles, Richard Swiveller, Mrs. Jarley, Sally Brass, and of course the endlessly cruel Quilp all play their part in the story of Little Nell and her grandfather.&lt;/p&gt;
-			&lt;p&gt;Although this novel has since been eclipsed in popularity by his later works, it has been nonetheless been adapated numerous times to the theater, film, radio, and even an opera.&lt;/p&gt;
+			&lt;p&gt;Nell and her grandfather eke out a life of near-poverty in a small curiosity shop in London. Despite their narrow circumstances, their lives are happy ones, in which each takes care of the other. But Nell’s grandfather is hiding a secret, one which threatens their very survival. When his secret is uncovered by the moneylender Daniel Quilp, their lives are turned upside-down, and they must make their way through unfamiliar places, among unfamiliar people.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charles-dickens"&gt;Charles Dickens&lt;/a&gt; originally conceived of the characters of Little Nell and her grandfather for a tale of only a few chapters. But when his new weekly periodical failed to sell well due to its lack of ongoing storyline, he wound up extending those few chapters into a sprawling narrative that ultimately took ten months to complete. Despite the intense pressure of ongoing weekly deadlines, the final story became his second-most-popular novel during his lifetime.&lt;/p&gt;
+			&lt;p&gt;Dickens is famous for his ability to sketch memorable characters, and &lt;i&gt;The Old Curiosity Shop&lt;/i&gt; in particular is brimming with quirky figures across the social strata of Victorian England. Kit Nubbles, Richard Swiveller, Mrs. Jarley, Sally Brass, and of course the endlessly cruel Quilp all play their part in the story of Little Nell and her grandfather.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/700</dc:source>
 		<dc:source>https://archive.org/details/oldcuriosityshop1841dick</dc:source>
 		<meta property="se:production-notes">Nearly every edition of this book differs from each other: not just punctuation, but word choices and occasionally entire sentences and paragraphs. Even the opening sentence comes in three different versions. After a careful comparison with the page scans of nearly a dozen different editions, it was unfortunately found that the Project Gutenberg transcription did not adhere particularly closely to any of them. Ultimately, the Chapman and Hall edition of 1841 was chosen for three reasons. One, it was marginally closer to the Project Gutenberg edition than most others. Two, this is the edition that is used as the basis for the definitive Clarendon Press edition of 1997, and in the lengthy introduction of this book, Elizabeth Brennan argues that of all the editions published during Dickens's lifetime, this one best represents his intentions and voice. And finally, the available scan of this paritcular edition was of a very good resolution. In order to avoid creating a chimeric patchwork transcription, the page scans were allowed to always take precedence over the Project Gutenberg version wherever they differed.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">221781</meta>
+		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_the-old-curiosity-shop</meta>
 		<dc:creator id="author">Charles Dickens</dc:creator>
@@ -97,6 +97,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
