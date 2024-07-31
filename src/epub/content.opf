@@ -66,7 +66,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/700</dc:source>
 		<dc:source>https://archive.org/details/oldcuriosityshop1841dick</dc:source>
 		<meta property="se:production-notes">Nearly every edition of this book differs from each other: not just punctuation, but word choices and occasionally entire sentences and paragraphs. Even the opening sentence comes in three different versions. After a careful comparison with the page scans of nearly a dozen different editions, it was unfortunately found that the Project Gutenberg transcription did not adhere particularly closely to any of them. Ultimately, the Chapman and Hall edition of 1841 was chosen for three reasons. One, it was marginally closer to the Project Gutenberg edition than most others. Two, this is the edition that is used as the basis for the definitive Clarendon Press edition of 1997, and in the lengthy introduction of this book, Elizabeth Brennan argues that of all the editions published during Dickens's lifetime, this one best represents his intentions and voice. And finally, the available scan of this paritcular edition was of a very good resolution. In order to avoid creating a chimeric patchwork transcription, the page scans were allowed to always take precedence over the Project Gutenberg version wherever they differed.</meta>
-		<meta property="se:word-count">221781</meta>
+		<meta property="se:word-count">221775</meta>
 		<meta property="se:reading-ease.flesch">66.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Old_Curiosity_Shop</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-dickens_the-old-curiosity-shop</meta>
