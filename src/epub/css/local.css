@@ -67,10 +67,6 @@ section[epub|type~="dedication"] > p b{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:valediction"]{
-	margin-right: 25%;
-}
-
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
