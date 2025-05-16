@@ -33,7 +33,7 @@ footer{
 /* Dedication page */
 section[epub|type~="dedication"]{
 	margin: auto;
-	margin-top: 8em;
+	margin-top: 20vh;
 	max-width: 50em;
 }
 
