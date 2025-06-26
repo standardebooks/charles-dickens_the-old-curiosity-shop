@@ -32,38 +32,23 @@ footer{
 
 /* Dedication page */
 section[epub|type~="dedication"]{
-	margin: auto;
 	margin-top: 20vh;
-	max-width: 50em;
 }
 
-section[epub|type~="dedication"] > p{
+section[epub|type~="dedication"] header p{
 	font-variant: small-caps;
 	text-align: center;
 }
 
-section[epub|type~="dedication"] > p b{
+section[epub|type~="dedication"] header p b{
 	font-size: larger;
 }
 
-@supports(display: flex){
-	section[epub|type~="dedication"]{
-		align-items: center;
-		box-sizing: border-box;
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		min-height: calc(50vh - 3em);
-		padding-top: 3em;
-	}
-}
-
-[epub|type~="z3998:salutation"]{
+section[epub|type~="dedication"] > p:first-of-type{
 	font-variant: small-caps;
-	margin-bottom: 1em;
 }
 
-[epub|type~="z3998:salutation"] + p{
+section[epub|type~="dedication"] > p:first-of-type + p{
 	text-indent: 0;
 }
 
